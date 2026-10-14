@@ -6,8 +6,7 @@ An optimized Spring Boot backend microservice that balances delivery loads acros
 
 ## 📋 Evaluation Deliverables
 * **Loom Demonstration Video:** https://www.loom.com/share/f9d992724c0246df8d084bbe27d1a1ca 
-* **Live Deployed API URL:** [PASTE YOUR RENDER/RAILWAY LIVE URL HERE]
-* **Live Interactive Swagger UI:** http://localhost:8080/swagger-ui/index.html#/ 
+* **Live Interactive Swagger UI:** https://dispatch-load-balancer-service.onrender.com 
 
 ---
 
