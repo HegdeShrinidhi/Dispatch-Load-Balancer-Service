@@ -107,8 +107,3 @@ Launch the embedded application server framework:
 # On Linux / macOS
 ./mvnw spring-boot:run
 ```
-The application will spin up successfully on default port `8080`.
-
-### 3. Access Local Specifications Docs
-* **Interactive UI:** `http://localhost:8080/swagger-ui/index.html`
-* **Raw Specs Object:** `http://localhost:8080/v3/api-docs`
